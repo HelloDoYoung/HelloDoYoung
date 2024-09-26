@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm DoYoung</h1>
 <h3 align="center">HighSchool Student in S.Korea</h3>
 
-- 🌱 I’m currently learning **Many languages**
+🌱 I’m currently learning **Many languages**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
